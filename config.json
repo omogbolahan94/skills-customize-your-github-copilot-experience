@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a book management REST API and practice endpoints, validation, status codes, filtering, and automated tests.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-10-30"
     }
   ]
 }
