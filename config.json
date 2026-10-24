@@ -65,6 +65,13 @@
       "description": "Build a book management REST API and practice endpoints, validation, status codes, filtering, and automated tests.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-10-30"
+    },
+    {
+      "id": "sqlite-persistence",
+      "title": "Adding SQLite Persistence to a FastAPI App",
+      "description": "Extend a book API with SQLite storage so records persist across application restarts.",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-10-31"
     }
   ]
 }
